@@ -258,6 +258,9 @@ a:active {text-decoration: none;}
 	width: 62vw;
 }
 
+.container .row .screen .classIFY #pullDown .pullDownRight ul li a{
+	color: black;
+}
 .container .row .screen .classIFY #pullDown .pullDownLeft ul {
 	background-color: white;
 }
@@ -384,9 +387,4 @@ a:active {text-decoration: none;}
 }
 .weui_tab p{
 	margin: 0px;
-}
-/*预留信息*/
-.obligate{
-	margin-bottom: 80px;
-	min-height: 50px;
 }
